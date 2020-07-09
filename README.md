@@ -1,4 +1,13 @@
-### Hi there 👋
+### Software developer currently living in Kansas City, MO
+- Experience with Data Engineering and Web Development
+- Linux user
+- Favorite languages:
+
+  - python
+  - javascript
+  - C/C++
+
+
 
 <!--
 **jaredwelch1/jaredwelch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
