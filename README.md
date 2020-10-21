@@ -6,6 +6,8 @@
   - python
   - javascript
   - C/C++
+  
+#### Reach me via email at jared.welch1@gmail.com
 
 
 
