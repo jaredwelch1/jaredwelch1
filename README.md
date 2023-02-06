@@ -1,6 +1,14 @@
+https://Jaredbwelch.com
 ### Software developer currently living in Kansas City, MO
 - Experience with Data Engineering and Web Development
 - Linux user
+
+### areas of interest 
+- finance and fintech 
+- ETL / BigData
+- Apache airflow / data pipelines 
+- machine learning
+
 - Favorite languages:
 
   - python
