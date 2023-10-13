@@ -6,6 +6,7 @@ https://Jaredbwelch.com
 ### areas of interest 
 - finance and fintech 
 - ETL / BigData
+- cryptocurrency 
 - Apache airflow / data pipelines 
 - machine learning
 
